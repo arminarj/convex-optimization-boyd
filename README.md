@@ -2,6 +2,13 @@
 
 This is CVXPY implementation of convex optimization additional problems.
 
+### notes:
+
+- this repo will be incomplete, but I'll try my best to implement some essential problom of every chapter of the book in Python.
+
+- if you find any mistakes or find alternate solution or anything please send a pull request and help me to keep the list up to date.
+
+## Problems: 
 ### Minimum fuel optimal control:
 
 soloution links : [[CVX-solution]](https://see.stanford.edu/materials/lsocoee364a/hw4sol.pdf)
